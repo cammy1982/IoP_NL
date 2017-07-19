@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 
 
 #dropdown-menu-0 .hide-buttons [data-button] {
@@ -9,7 +10,7 @@
 #dropdown-menu-0 .dropdown-item {
   font-size: 1em;
   color: #ffffff;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-0 .navbar,
 #dropdown-menu-0 .dropdown-menu {
@@ -26,6 +27,7 @@
 #header2-5 H1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 60px;
+  text-align: left;
 }
 #msg-box4-8 .mbr-header__text {
   color: #ffffff;
