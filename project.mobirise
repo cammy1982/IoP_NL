@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 10,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1282.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1284.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -40,10 +40,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#000000"
+              "background": "#b78fce"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#000000"
+              "background": "#ae81c8"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -55,7 +55,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-0",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#b78fce",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -66,7 +66,7 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true
           },
           "logo": {
@@ -81,7 +81,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community Nederland</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Block explorer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Windows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Linux</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mac</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
@@ -229,7 +229,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-2",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#b78fce",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -240,7 +240,7 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true
           },
           "logo": {
@@ -255,7 +255,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community Nederland</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Block explorer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Windows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Linux</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mac</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         }
       ]
@@ -295,7 +295,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-6",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#b78fce",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -306,7 +306,7 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true
           },
           "logo": {
@@ -321,7 +321,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community Nederland</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Block explorer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Windows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Linux</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mac</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         }
       ]
