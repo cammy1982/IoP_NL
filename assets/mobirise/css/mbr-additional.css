@@ -37,6 +37,12 @@
 #msg-box4-8 .mbr-article {
   color: #ffffff;
 }
+#header2-s P {
+  text-align: right;
+}
+#header2-s H1 {
+  text-align: left;
+}
 
 #dropdown-menu-u .hide-buttons [data-button] {
   display: none !important;

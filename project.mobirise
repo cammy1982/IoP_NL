@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Home",
+    "currentPage": "Documentatie",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 35,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1287.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12811.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -225,12 +225,20 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": false
           },
-          "title": "MOBIRISE",
-          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "title": "Op dit moment zijn nog niet alle documenten in dit overzicht naar het Nederlands vertaald. Onze excuses voor het ongemak.&nbsp;",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
