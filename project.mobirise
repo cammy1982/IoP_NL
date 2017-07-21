@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 42,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1280.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1281.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -144,7 +144,7 @@
           "_params": {
             "imageSize": "17",
             "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -189,7 +189,7 @@
           "headerAlign": "left",
           "title": "Internet of People Gemeenschap",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Our goal is to increase the popularity of the Internet of People project and create an extensive community that supports our vision of the modern world. We encourage any activity directed towards these GOals: &nbsp;</p><ul><li>Informatiecentrum</li><li><br></li></ul><p><br></p><p><br></p>",
+          "text": "<p>Our goal is to increase the popularity of the Internet of People project and create an extensive community that supports our vision of the modern world. We encourage any activity directed towards these GOals: &nbsp;</p><ul><li>Informatiecentrum</li><li><br></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
