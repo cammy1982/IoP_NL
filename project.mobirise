@@ -1,16 +1,16 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Presentaties",
+    "currentPage": "Home",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 42,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12814.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1280.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -82,7 +82,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Block explorer</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"true\">Documentatie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"false\">Markten</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Block explorer</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"true\">Documentatie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"false\">Markten</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_inherit": "header1",
@@ -191,6 +191,31 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Our goal is to increase the popularity of the Internet of People project and create an extensive community that supports our vision of the modern world. We encourage any activity directed towards these GOals: &nbsp;</p><ul><li>Informatiecentrum</li><li><br></li></ul><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-15",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#77b8d7",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><br></p><br><p>Copyright (c) 2017 &nbsp;IoP Community NL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; e-mail: &nbsp;camelia@iopcommunity.nl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -208,6 +233,14 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header2",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-s",
           "_params": {
             "parallax": true,
@@ -230,15 +263,7 @@
           },
           "title": "Op dit moment zijn nog niet alle documenten in dit overzicht naar het Nederlands vertaald. Onze excuses voor het ongemak.&nbsp;",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            },
-            "H1": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         }
       ]
     },
@@ -304,7 +329,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Block explorer</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"true\">Documentatie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"false\">Markten</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Block explorer</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"true\">Documentatie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"false\">Markten</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         }
       ]
     },
