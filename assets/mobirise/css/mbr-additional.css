@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
 
 #dropdown-menu-0 .hide-buttons [data-button] {
@@ -140,6 +141,7 @@
   font-size: 22px;
 }
 
+
 #dropdown-menu-1o .hide-buttons [data-button] {
   display: none !important;
 }
@@ -175,7 +177,8 @@
   color: #252525;
 }
 #msg-box4-1q .mbr-header__text DIV {
-  font-size: 19px;
+  font-size: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 #dropdown-menu-1r .hide-buttons [data-button] {
