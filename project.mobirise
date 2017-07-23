@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "IoP Onafhankelijkheidsverklaring",
+    "currentPage": "Het minen van IoP",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 67,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1284.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1286.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -753,7 +753,7 @@
               "font-size": "18px"
             },
             ".mbr-article LI": {
-              "font-size": "22px"
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -927,7 +927,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14005.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14007.png",
               "link": "",
               "alt": "",
               "title": "",
