@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 
 
 #dropdown-menu-0 .hide-buttons [data-button] {
@@ -225,6 +226,7 @@
   color: #1d84b5;
 }
 
+
 #dropdown-menu-1t .hide-buttons [data-button] {
   display: none !important;
 }
@@ -246,12 +248,7 @@
 #dropdown-menu-1t .navbar-toggler {
   color: #1d84b5;
 }
-#msg-box4-1u .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box4-1u .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-1u .mbr-article {
-  color: #ffffff;
+#header4-1v P {
+  font-family: 'Droid Serif', serif;
+  font-size: 22px;
 }
