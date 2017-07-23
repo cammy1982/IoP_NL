@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Home",
+    "currentPage": "Documentatie",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 63,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12852.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12857.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -262,7 +262,7 @@
     "Documentatie": {
       "settings": {
         "title": "Documentatie",
-        "meta_descr": "",
+        "meta_descr": "documentatie",
         "order": 4
       },
       "components": [
@@ -1031,7 +1031,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140053.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140058.png",
               "link": "",
               "alt": "",
               "title": "",
