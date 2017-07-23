@@ -1,16 +1,16 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Blockchain",
+    "currentPage": "Het minen van IoP",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 51,
+    "uniqCompNum": 60,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1284.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1286.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -82,7 +82,7 @@
             }
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\">Documentatie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Het minen van IoP</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_inherit": "header1",
@@ -321,7 +321,7 @@
             }
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\">Documentatie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Het minen van IoP</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_inherit": "header1",
@@ -427,7 +427,7 @@
             }
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\">Documentatie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Het minen van IoP</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_styles": {
@@ -612,7 +612,7 @@
             }
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\">Documentatie</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Het minen van IoP</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_inherit": "features1",
@@ -775,6 +775,138 @@
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "Het minen van IoP": {
+      "settings": {
+        "title": "Het minen van IoP",
+        "meta_descr": "IoP, crypto, mining"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#1d84b5",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#4b2727"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#3e2020"
+            },
+            ".navbar-toggler": {
+              "color": "#1d84b5"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-1f",
+          "_params": {
+            "bgColor": "#4b2727",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#1d84b5",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Internet of People",
+              "link": "https://cammy1982.github.io/IoP_NL/Home",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Het minen van IoP</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article H2": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1n",
+          "_params": {
+            "imageSize": "16",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1-l4mw1rg0bmwbcg5zbqbrsw-1400x787.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Het 'minen' (delven) van IoP&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Het ‘minen’ naar IoP’s is erg gemakkelijk. Het enige wat je nodig hebt is een desktop / laptop, de bijbehorende software en je kunt aan de slag.</p><h2>Wie kan IoP’s minen?</h2><p>Iedereen die iets bij wilt dragen aan de Fermat gemeenschap. Fermat is onderverdeeld in lokale gemeenschappen, welke “lokale afdelingen ” worden genoemd. Ieder land mag één afdeling runnen. Hiermee bevorderen we diversiteit en decentralisatie. De plekken binnen een afdeling zijn beperkt.</p><p>Wat houdt het runnen van een afdeling in?</p><p>Je maakt deel uit van een afdeling van Fermat, waarbij je voor één of meerdere taken verantwoordelijk bent. Deze worden verdeeld over alle leden van het team. Het kan gaan om het testen van een miner, promotie van het project binnen de social media, bijeenkomsten organiseren enzovoorts.</p><p>Iedere taak dat door een afdeling wordt uitgevoerd, levert een mining certificaat op (toestemming om op het netwerk van IoP te minen).</p><p>Deze certificaten worden onder de teamleden verdeeld.</p><p>Wat is een ‘mining’ certificaat?</p><p>Het is het recht om IoP’s te minen. Iedere met één of meerdere certificaten mag met bepaalde miner software op het IoP blockchain minen. De nieuw gegenereerde IoP’s zijn de beloning. Je hoeft je geen zorgen te maken dat er één of ander “mining” race ontstaat. Ieder certificaat wordt in de blockchain vastgelegd. Mensen zonder certificaat kunnen gewoonweg niet minen.</p><p>Ook is er een soort van “mining” beperking (‘mining cap’): iemand in het bezit van een certificaat kan niet meer dan drie keer het gemiddelde aan IoP’s minen. Dit is om het minen zo verspreid mogelijk binnen het netwerk te houden (niet zoals bij de bitcoin, waarbij een aantal groeperingen de meeste mining kracht binnen het netwerk hebben). Een tweede voordeel is dat een afdeling met een gerust hart certificaten onder haar leden kan verspreiden, zonder zelf aan ‘mining’ kracht te hoeven verliezen.</p><p>Waar kun je je opgeven?</p><p>Via dit spreadsheet. Kijk even of het land waarin jij woont al geregistreerd staat. Als dat zo is, betekent het dat er al een afdeling bestaat. Zo niet, dan kun jij de eerste deelnemer zijn. Vul alle gevraagde gegevens in en wacht totdat er iemand van Fermat contact met je opneemt.</p><p>Wat als er in jouw land al een afdeling bestaat?</p><p>In deze situatie heb je twee mogelijkheden:</p><p>Kijk aan de rechterkant van de spreadsheet of de afdeling het aantal maximum certificaten al toegekend heeft gekregen. Als dit niet zo is, neem contact met hen op en bied je hulp aan. De overgebleven taken binnen de afdeling zullen dan hoogstwaarschijnlijk aan jou worden toegekend.</p><p>Wacht totdat bijna alle landen bij de Fermat gemeenschap zijn aangesloten. Tegen die tijd wordt er een nieuwe fase opgestart waarbij nieuwe afdelingen per provincies en steden toegelaten zullen worden. Als je wilt kun je op het spreadsheet alvast aangeven in welke provincie of stad je een afdeling op wilt starten. Dit zal dan te zijner tijd in gang worden gezet.</p><p>Wat nu?</p><p>Je kunt alvast de bijbehorende software downloaden en installeren, in afwachting van contact met Fermat. Meer uitleg over het configureren van de software kun je hier en hier vinden. Succes!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         }
       ]
     }
