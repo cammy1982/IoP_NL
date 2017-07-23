@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 63,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12812.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12814.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1027,7 +1027,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140013.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140015.png",
               "link": "",
               "alt": "",
               "title": "",
