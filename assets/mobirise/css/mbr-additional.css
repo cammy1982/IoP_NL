@@ -206,3 +206,47 @@
 #msg-box4-1q .mbr-header__text DIV {
   font-size: 19px;
 }
+
+#dropdown-menu-1r .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1r .nav .link,
+#dropdown-menu-1r .dropdown-item {
+  font-size: 1.2em;
+  color: #1d84b5;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-1r .navbar,
+#dropdown-menu-1r .dropdown-menu {
+  background: #4b2727;
+}
+#dropdown-menu-1r .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1r .dropdown-menu a:hover,
+#dropdown-menu-1r .dropdown-menu a:focus {
+  background: #3e2020;
+}
+#dropdown-menu-1r .navbar-toggler {
+  color: #1d84b5;
+}
+
+#dropdown-menu-1s .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1s .nav .link,
+#dropdown-menu-1s .dropdown-item {
+  font-size: 1.2em;
+  color: #1d84b5;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-1s .navbar,
+#dropdown-menu-1s .dropdown-menu {
+  background: #4b2727;
+}
+#dropdown-menu-1s .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1s .dropdown-menu a:hover,
+#dropdown-menu-1s .dropdown-menu a:focus {
+  background: #3e2020;
+}
+#dropdown-menu-1s .navbar-toggler {
+  color: #1d84b5;
+}
