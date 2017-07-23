@@ -310,7 +310,8 @@
               "text-align": "right"
             },
             "H1": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "36px"
             }
           },
           "_anchor": "header2-s",
