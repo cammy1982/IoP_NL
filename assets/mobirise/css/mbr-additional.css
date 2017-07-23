@@ -191,7 +191,7 @@
   color: #1d84b5;
 }
 #msg-box4-1q .mbr-header__text {
-  color: #ffffff;
+  color: #252525;
 }
 #msg-box4-1q .mbr-header__subtext {
   color: #ffffff;
@@ -201,4 +201,5 @@
 }
 #msg-box4-1q .mbr-article P {
   font-size: 16px;
+  color: #252525;
 }

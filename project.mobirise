@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 63,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12816.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12820.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -986,7 +986,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#252525"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -995,7 +995,8 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#252525"
             }
           },
           "_name": "msg-box4",
@@ -1004,18 +1005,18 @@
             "imageSize": "13",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
             "bgColor": "#f97352",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#7c706b",
             "inverse": false,
             "showTitle": true,
             "showMeta": false,
@@ -1027,7 +1028,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140017.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140021.png",
               "link": "",
               "alt": "",
               "title": "",
