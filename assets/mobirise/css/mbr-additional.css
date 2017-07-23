@@ -168,3 +168,37 @@
 #msg-box5-1n .mbr-article LI {
   font-size: 22px;
 }
+
+#dropdown-menu-1o .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1o .nav .link,
+#dropdown-menu-1o .dropdown-item {
+  font-size: 1.2em;
+  color: #1d84b5;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-1o .navbar,
+#dropdown-menu-1o .dropdown-menu {
+  background: #4b2727;
+}
+#dropdown-menu-1o .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1o .dropdown-menu a:hover,
+#dropdown-menu-1o .dropdown-menu a:focus {
+  background: #3e2020;
+}
+#dropdown-menu-1o .navbar-toggler {
+  color: #1d84b5;
+}
+#msg-box4-1q .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1q .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1q .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1q .mbr-article P {
+  font-size: 16px;
+}

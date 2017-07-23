@@ -1,16 +1,16 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Het minen van IoP",
+    "currentPage": "IoP Onafhankelijkheidsverklaring",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 60,
+    "uniqCompNum": 63,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12811.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12812.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -912,6 +912,143 @@
           "title": "Het 'minen' (delven) van IoP&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Het ‘minen’ naar IoP’s is erg gemakkelijk. Het enige wat je nodig hebt is een desktop / laptop, de bijbehorende software en je kunt aan de slag.</p><p><br></p><h2>Wie kan IoP’s minen?</h2><p>Iedereen die iets bij wilt dragen aan de Fermat gemeenschap. Fermat is onderverdeeld in lokale gemeenschappen, welke “lokale afdelingen ” worden genoemd. Ieder land mag één afdeling runnen. Hiermee bevorderen we diversiteit en decentralisatie. De plekken binnen een afdeling zijn beperkt.</p><p><br></p><p><b>Wat houdt het runnen van een afdeling in?</b></p><p>Je maakt deel uit van een afdeling van Fermat, waarbij je voor één of meerdere taken verantwoordelijk bent. Deze worden verdeeld over alle leden van het team. Het kan gaan om het testen van een miner, promotie van het project binnen de social media, bijeenkomsten organiseren enzovoorts.</p><p>Iedere taak dat door een afdeling wordt uitgevoerd, levert een mining certificaat op (toestemming om op het netwerk van IoP te minen).</p><p>Deze certificaten worden onder de teamleden verdeeld.</p><p><br></p><p><b>Wat is een ‘mining’ certificaat?</b></p><p>Het is het recht om IoP’s te minen. Iedere met één of meerdere certificaten mag met bepaalde miner software op het IoP blockchain minen. De nieuw gegenereerde IoP’s zijn de beloning. Je hoeft je geen zorgen te maken dat er één of ander “mining” race ontstaat. Ieder certificaat wordt in de blockchain vastgelegd. Mensen zonder certificaat kunnen gewoonweg niet minen.</p><p>Ook is er een soort van “mining” beperking (‘mining cap’): iemand in het bezit van een certificaat kan niet meer dan drie keer het gemiddelde aan IoP’s minen. Dit is om het minen zo verspreid mogelijk binnen het netwerk te houden (niet zoals bij de bitcoin, waarbij een aantal groeperingen de meeste mining kracht binnen het netwerk hebben). Een tweede voordeel is dat een afdeling met een gerust hart certificaten onder haar leden kan verspreiden, zonder zelf aan ‘mining’ kracht te hoeven verliezen.</p><p><br></p><p><b>Waar kun je je opgeven?</b></p><p>Via dit spreadsheet. Kijk even of het land waarin jij woont al geregistreerd staat. Als dat zo is, betekent het dat er al een afdeling bestaat. Zo niet, dan kun jij de eerste deelnemer zijn. Vul alle gevraagde gegevens in en wacht totdat er iemand van Fermat contact met je opneemt.</p><p><br></p><p><b>Wat als er in jouw land al een afdeling bestaat?</b></p><p>In deze situatie heb je twee mogelijkheden:</p><ol><li>Kijk aan de rechterkant van de spreadsheet of de afdeling het aantal maximum certificaten al toegekend heeft gekregen. Als dit niet zo is, neem contact met hen op en bied je hulp aan. De overgebleven taken binnen de afdeling zullen dan hoogstwaarschijnlijk aan jou worden toegekend.</li><li>Wacht totdat bijna alle landen bij de Fermat gemeenschap zijn aangesloten. Tegen die tijd wordt er een nieuwe fase opgestart waarbij nieuwe afdelingen per provincies en steden toegelaten zullen worden. Als je wilt kun je op het spreadsheet alvast aangeven in welke provincie of stad je een afdeling op wilt starten. Dit zal dan te zijner tijd in gang worden gezet.</li></ol><p><br></p><p><b>Wat nu?</b></p><p>Je kunt alvast de bijbehorende software downloaden en installeren, in afwachting van contact met Fermat. Meer uitleg over het configureren van de software kun je hier en hier vinden. Succes!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "IoP Onafhankelijkheidsverklaring": {
+      "settings": {
+        "title": "IoP Onafhankelijkheidsverklaring",
+        "meta_descr": "IoP, declaration"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#1d84b5",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#4b2727"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#3e2020"
+            },
+            ".navbar-toggler": {
+              "color": "#1d84b5"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-1o",
+          "_params": {
+            "bgColor": "#4b2727",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#1d84b5",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Internet of People",
+              "link": "https://cammy1982.github.io/IoP_NL/Home",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begin hier</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Downloads</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "16px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1q",
+          "_params": {
+            "imageSize": "13",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140013.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "IoP Gemeenschap<div><br></div><div><span style=\"font-weight: normal;\"><i>Onafhankelijkheidsverklaring</i></span></div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Door middel van dit document verklaren de afdelingen uit de verschillende landen, ontwikkelaars, en andere leden van de gemeenschap, onafhankelijkheid van het Fermat project en zijn grondleggers. Deze begonnen met het ontwikkelen van internet of people maar zijn er niet in geslaagd om hun doelen te bereiken en beloftes na te komen.In dit document zullen we u uitleggen waarom we besloten hebben om ons als gemeenschap, af te zonderen van het Fermat project.</p><p><br></p><p>&nbsp;“In de loop van de afgelopen weken was er sprake van toegenomen conflicten tussen de leden van de IoP gemeenschap en de grondleggers van het Fermat project. De gemeenschap heeft expliciet aangegeven het er niet mee eens te zijn met de voorgenomen herstructurering van de afdelingen en de certificaten model. We zijn tot de conclusie gekomen dat één ieder beter zijn eigen weg kan gaan.” -@anfauglith, geschreven op de github repository van IoP&nbsp;</p><p><b>Oorzaak van onvrede over het Fermat project</b></p><p>Één van de grootste problemen waarmee de IoP gemeenschap wordt geconfronteerd is het feit dat er een groot aantal tokens ‘premind’ (van te voren gemind) zijn en verdeeld. De gemeenschap begrijpt waarom dit besluit werd genomen in de vroege dagen van dit project. Mensen hebben hard gewerkt voor de visie van Internet of People gewerkt en hebben daarom een bijdrage verdiend. Maar onbegrijpelijk is het feit dat er over de 1 miljoen tokens (uit een totaal van 1.6 miljoen beschikbare tokens) in handen zijn van twee mensen, namelijk Luis Molina en Lan Tschirky (betaling aan beiden is geschat op ongeveer 1.3 miljoen IoP tokens). Er is beloofd dat deze tokens gebruikt zullen worden om het project verder te helpen ontwikkelen. Tot op heden zijn deze tokens nog steeds in de handen van de hierboven genoemde personen. De gemeenschap vat dit op als een bedreiging voor het netwerk. &nbsp;</p><p><b><br></b></p><p><b>Los hiervan is de gemeenschap keer op keer getuige geweest van onethische en oneerlijke handelingen. Beloftes en overeenkomsten zijn niet nagekomen en ontwikkelaars en andere leden van het gemeenschap met bepaalde verantwoordelijkheden werden bedreigd, als ze niet aan eisen van de oprichter wilden voldoen. We erkennen dat onze voormalige gemeenschap manager, Markus Maiwald, beschuldigd werd van het starten van een “coupe”. Het is niet alleen belachelijk, maar ook niet waar.</b></p><p><b><br></b></p><p><b>De IoP gemeenschap heeft genoeg van dictatoriale beslissingen en heeft zich expliciet losgemaakt van het Fermat project hierdoor. &nbsp;</b></p><p><b><br></b></p><p>Onder andere, sinds het begin van dit project is er niet genoeg management geweest betreffende de ontwikkeling, toewijzing van middelen en planning.</p><p><br></p><p>Tot op de dag van vandaag is er geen duidelijk plan geweest over hoe het project de Internet of People kan bouwen. Werken met een mooi beschreven visie zorgt niet voor vooruitgang. Management besluiten zijn alleen op een ad-hoc basis genomen; dit werkt prima in geval van probleemsituaties, echter is dit niet de basis voor degelijk projectmanagement.</p><p><b><br></b></p><p>Als oplossing voor dit probleem is Luis Molina (de oprichter van Fermat) afgetreden van zijn functie als projectmanager en er werd een vervanger aangekondigd. Deze vervanging is nooit zichtbaar geweest en de oprichter bleef doorgaan met het zelfstandig nemen van besluiten zonder goedkeuring van de gemeenschap.</p><p><br></p><p>Dit leidt naar de hoofdreden van deze onafhankelijkheidsverklaring. Een aantal dagen geleden werd er aangekondigd dat de afdelingen een soort “ontwikkelingslabs” zouden worden voor Fermat; de bedoeling was om open-source applicaties te kiezen en deze te transformeren tot IoP (Internet of People) applicaties. Degene die de structuur van de gemeenschap kennen, weten maar al te goed dat dit onmogelijk is. De meeste leden hebben geen technische achtergrond, of kennen geen software ontwikkelaars, of hebben simpelweg de middelen niet om software ontwikkelaars hiervoor te betalen.</p><p><b><br></b></p><p>Een ander groot punt wat er speelde was dat er meerdere mining certificaten (toestemmingen om op het netwerk van IoP te minen) ingetrokken zouden worden. Er werd voorgesteld om per afdeling maar één mining certificaat te houden. Gezien de onophoudelijke problemen welke de afdelingen ondervinden bij het minen van blokken, is dit een belachelijk voorstel.</p><p><br></p><p>Daarbovenop zou er een afdelingen applicatie ontwikkeld worden, die ervoor zou zorgen dat het minen volledig gedecentraliseerd zou worden. Hoewel de gemeenschap vaak heeft geprobeerd dit te realiseren, is het door de oprichter verhinderd. Nadat de gemeenschaps manager contact heeft opgenomen met een aantal ontwikkelaars om deze applicatie alsnog te laten maken, heeft de oprichter zich tussenbeide gemengd; de applicatie zou te duur te zijn en hierdoor is deze nooit ontwikkeld. &nbsp;</p><p><br></p><p>Samengevat, de IoP gemeenschap heeft besloten om van de Internet of People een echte zelfstandige, zelfsturende en gedecentraliseerde project te maken. Iedereen die mee wilt doen is welkom om zich bij ons aan te sluiten en om de visie waarheid te maken.</p><p><b><br></b></p><p>De gemeenschap bevindt zich momenteel in een zogenaamde “zelfbehoudende modus”, die ertoe heeft geleid dat het “Slack” kanaal van Fermat gesloten is, en een aantal accounts gedeactiveerd zijn. Verder zijn de officiële sociale media kanalen gewijzigd van “Fermat” naar “IoP Community”. De accounts van de sociale media zijn overgedragen aan leden van de gemeenschap. &nbsp;</p><p><b><br></b></p><p>Nogmaals, iedereen die mee wilt werken binnen een gedecentraliseerde organisatie en mee wilt helpen aan het opbouwen van de Internet of People, is bij deze uitgenodigd.<b> Een plek voor mensen, gemaakt door mensen.</b></p><p><b><br></b></p><p><b>&nbsp;written by IoPCommunity</b></p><p><b><br></b></p><p><b>(vertaald door IoPCommunity Nederland)</b></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         }
       ]
