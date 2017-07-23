@@ -44,26 +44,26 @@
   text-align: left;
 }
 
-#dropdown-menu-u .hide-buttons [data-button] {
+#dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-u .nav .link,
-#dropdown-menu-u .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1.2em;
+  color: #1d84b5;
   font-family: 'Roboto', sans-serif;
 }
-#dropdown-menu-u .navbar,
-#dropdown-menu-u .dropdown-menu {
-  background: #000000;
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #230903;
 }
-#dropdown-menu-u .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-u .dropdown-menu a:hover,
-#dropdown-menu-u .dropdown-menu a:focus {
-  background: #000000;
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #100401;
 }
-#dropdown-menu-u .navbar-toggler {
-  color: #ffffff;
+#dropdown-menu-0 .navbar-toggler {
+  color: #1d84b5;
 }
 #msg-box5-11 .mbr-header__text {
   color: #ffffff;
