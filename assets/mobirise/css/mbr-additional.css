@@ -39,6 +39,16 @@
 #msg-box4-8 .mbr-article {
   color: #ffffff;
 }
+#contacts1-18 STRONG {
+  color: #2c82c9;
+}
+#contacts1-18 P {
+  color: #2c82c9;
+}
+#footer1-1x P {
+  color: #ffffff;
+  font-size: 14px;
+}
 
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
