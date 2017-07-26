@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 74,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1280.png",
+    "favicon": "file:///C:/Users/Gebruiker/Downloads/MOBIRISE",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -974,7 +974,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14001.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14000.png",
               "link": "",
               "alt": "",
               "title": "",
