@@ -7,9 +7,12 @@
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-0 .navbar-brand a {
+  font-size: 15px;
+}
 #dropdown-menu-0 .nav .link,
 #dropdown-menu-0 .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #1d84b5;
   font-family: 'Roboto', sans-serif;
 }
@@ -53,9 +56,12 @@
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-0 .navbar-brand a {
+  font-size: 15px;
+}
 #dropdown-menu-0 .nav .link,
 #dropdown-menu-0 .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #1d84b5;
   font-family: 'Roboto', sans-serif;
 }
@@ -93,9 +99,12 @@
 #dropdown-menu-1a .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-1a .navbar-brand a {
+  font-size: 15px;
+}
 #dropdown-menu-1a .nav .link,
 #dropdown-menu-1a .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #1d84b5;
   font-family: 'Roboto', sans-serif;
 }
@@ -115,9 +124,12 @@
 #dropdown-menu-1f .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-1f .navbar-brand a {
+  font-size: 15px;
+}
 #dropdown-menu-1f .nav .link,
 #dropdown-menu-1f .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #1d84b5;
   font-family: 'Roboto', sans-serif;
 }
@@ -156,9 +168,12 @@
 #dropdown-menu-1o .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-1o .navbar-brand a {
+  font-size: 15px;
+}
 #dropdown-menu-1o .nav .link,
 #dropdown-menu-1o .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #1d84b5;
   font-family: 'Roboto', sans-serif;
 }
@@ -195,9 +210,12 @@
 #dropdown-menu-1r .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-1r .navbar-brand a {
+  font-size: 15px;
+}
 #dropdown-menu-1r .nav .link,
 #dropdown-menu-1r .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #1d84b5;
   font-family: 'Roboto', sans-serif;
 }
@@ -217,9 +235,12 @@
 #dropdown-menu-1s .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-1s .navbar-brand a {
+  font-size: 15px;
+}
 #dropdown-menu-1s .nav .link,
 #dropdown-menu-1s .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #1d84b5;
   font-family: 'Roboto', sans-serif;
 }
@@ -240,9 +261,12 @@
 #dropdown-menu-1t .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-1t .navbar-brand a {
+  font-size: 15px;
+}
 #dropdown-menu-1t .nav .link,
 #dropdown-menu-1t .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #1d84b5;
   font-family: 'Roboto', sans-serif;
 }
