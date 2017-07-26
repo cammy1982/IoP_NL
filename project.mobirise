@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 70,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1282.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1284.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -272,16 +272,16 @@
           "_name": "footer1",
           "_anchor": "footer1-1x",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgColor": "#444444",
-            "bgColorRadio": false,
+            "bgColor": "#551919",
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#f97352"
+            "overlayColor": "#683227"
           },
           "text": "Copyright (c) 2017 Camelia.",
           "_styles": {
@@ -961,7 +961,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14003.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14005.png",
               "link": "",
               "alt": "",
               "title": "",
