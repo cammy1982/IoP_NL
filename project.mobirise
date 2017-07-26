@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Wallets",
+    "currentPage": "Home",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,8 @@
     "favicon": "file:///C:/Users/Gebruiker/Downloads/MOBIRISE",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": "We use cookies to give you the best experience. "
   },
   "pages": {
     "Home": {
@@ -974,7 +975,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14006.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14000.png",
               "link": "",
               "alt": "",
               "title": "",
