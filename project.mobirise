@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 74,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12810.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12816.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -961,7 +961,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140011.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140017.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1088,10 +1088,10 @@
               "src": "@PROJECT_PATH@/assets/images/windows-32-bit-600x605.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://github.com/Internet-of-People/iop-blockchain/releases/download/v4.1.1/IoP-4.1.1-win32.zip",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1112,10 +1112,10 @@
               "src": "@PROJECT_PATH@/assets/images/windows-64-bit-600x606.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://github.com/Internet-of-People/iop-blockchain/releases/download/v4.1.1/IoP-4.1.1-win64.zip",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1136,10 +1136,10 @@
               "src": "@PROJECT_PATH@/assets/images/ubuntu-14-600x614.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://github.com/Internet-of-People/iop-blockchain/releases/download/v4.1.1/iop-blockchain_4.1.1-ubuntu1404_amd64.deb",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1160,10 +1160,10 @@
               "src": "@PROJECT_PATH@/assets/images/ubuntu-16-600x594.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://github.com/Internet-of-People/iop-blockchain/releases/download/v4.1.1/iop-blockchain_4.1.1-ubuntu1604_amd64.deb",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1184,10 +1184,10 @@
               "src": "@PROJECT_PATH@/assets/images/macos-600x607.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://github.com/Internet-of-People/iop-blockchain/releases/download/v4.1.1/IoP-4.1.1-osx64.tar.gz",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1208,10 +1208,10 @@
               "src": "@PROJECT_PATH@/assets/images/linux-600x602.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "https://github.com/Internet-of-People/iop-blockchain/releases/download/v4.1.1/IoP-4.1.1-x86_64-linux-gnu.tar.gz",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
