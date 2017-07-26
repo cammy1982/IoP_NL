@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Voorwoord",
+    "currentPage": "Home",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 74,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12826.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x1280.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -224,6 +224,14 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#2c82c9"
+            },
+            "P": {
+              "color": "#2c82c9"
+            }
+          },
           "_anchor": "contacts1-18",
           "_params": {
             "paddingTop": "1",
@@ -257,21 +265,19 @@
           },
           "text1": "",
           "text2": "<strong>CONTACT</strong><br>\nEmail: camelia@iopcommunity.nl<br><br><br>",
-          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
-          "_styles": {
-            "STRONG": {
-              "color": "#2c82c9"
-            },
-            "P": {
-              "color": "#2c82c9"
-            }
-          }
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#2c82c9",
+              "font-size": "14px"
+            }
+          },
           "_anchor": "footer1-1x",
           "_params": {
             "paddingTop": "1",
@@ -279,19 +285,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgColor": "#b8312f",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#683227"
           },
-          "text": "Copyright (c) 2017 Camelia.",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "14px"
-            }
-          }
+          "text": "Copyright (c) 2017 Camelia."
         }
       ]
     },
@@ -974,7 +974,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140027.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14001.png",
               "link": "",
               "alt": "",
               "title": "",
