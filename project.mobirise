@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Home",
+    "currentPage": "Voorwoord",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 74,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12820.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x12826.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -299,7 +299,7 @@
       "settings": {
         "title": "Presentaties",
         "meta_descr": "",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -486,7 +486,8 @@
     "Blockchain": {
       "settings": {
         "title": "Blockchain",
-        "meta_descr": "blockchain IoP"
+        "meta_descr": "blockchain IoP",
+        "order": 3
       },
       "components": [
         {
@@ -715,7 +716,8 @@
     "Het minen van IoP": {
       "settings": {
         "title": "Het minen van IoP",
-        "meta_descr": "IoP, crypto, mining"
+        "meta_descr": "IoP, crypto, mining",
+        "order": 5
       },
       "components": [
         {
@@ -855,7 +857,8 @@
     "IoP Onafhankelijkheidsverklaring": {
       "settings": {
         "title": "IoP Onafhankelijkheidsverklaring",
-        "meta_descr": "IoP, declaration"
+        "meta_descr": "IoP, declaration",
+        "order": 6
       },
       "components": [
         {
@@ -971,7 +974,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140021.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140027.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1000,7 +1003,8 @@
     "Wallets": {
       "settings": {
         "title": "Wallets",
-        "meta_descr": "Site Builder Description"
+        "meta_descr": "Site Builder Description",
+        "order": 7
       },
       "components": [
         {
@@ -1244,7 +1248,8 @@
     "Applicaties ": {
       "settings": {
         "title": "Applicaties",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 8
       },
       "components": [
         {
@@ -1311,7 +1316,8 @@
     "Voorwoord": {
       "settings": {
         "title": "Voorwoord",
-        "meta_descr": "Web Page Generator Description"
+        "meta_descr": "Web Page Generator Description",
+        "order": 4
       },
       "components": [
         {
