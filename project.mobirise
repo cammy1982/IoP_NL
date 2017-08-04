@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Home",
+    "currentPage": "Presentaties",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 75,
+    "uniqCompNum": 76,
     "versionPublish": "3.12.1",
     "favicon": "file:///C:/Users/Gebruiker/Downloads/MOBIRISE",
     "noImageResize": "",
@@ -365,13 +365,13 @@
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#553982"
+              "color": "#4d0bb7"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#553982"
+              "color": "#4d0bb7"
             }
           },
           "_tags": [
@@ -425,13 +425,13 @@
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#553982"
+              "color": "#4d0bb7"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#553982"
+              "color": "#4d0bb7"
             }
           },
           "_tags": [
@@ -440,7 +440,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-14",
           "_params": {
-            "imageSize": "42",
+            "imageSize": "44",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
@@ -480,6 +480,69 @@
           "title": "People Power, aflevering 2&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
           "text": "P2P gebruikersmogelijkheden: taxi's en dating.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#4d0bb7"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#4f15ad"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-23",
+          "_params": {
+            "imageSize": "44",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=pz0iiL31TVY",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "People Power, aflevering 3",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Wanneer je je als gebruiker aanmeldt bij een groot bedrijf, bijvoorbeeld Facebook, dan heb je geen controle meer over je gegevens. Facebook mag zelf bepalen wat zij met jouw gegevens doen, bijvoorbeeld doorverkorpen aan derde partijen.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         }
       ]
