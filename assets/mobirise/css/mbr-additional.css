@@ -219,6 +219,36 @@
   font-family: 'Roboto Condensed', sans-serif;
 }
 
+
+#dropdown-menu-1t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1t .navbar-brand a {
+  font-size: 15px;
+}
+#dropdown-menu-1t .nav .link,
+#dropdown-menu-1t .dropdown-item {
+  font-size: 1em;
+  color: #1d84b5;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-1t .navbar,
+#dropdown-menu-1t .dropdown-menu {
+  background: #4b2727;
+}
+#dropdown-menu-1t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1t .dropdown-menu a:hover,
+#dropdown-menu-1t .dropdown-menu a:focus {
+  background: #3e2020;
+}
+#dropdown-menu-1t .navbar-toggler {
+  color: #1d84b5;
+}
+#header4-1v P {
+  font-family: 'Droid Serif', serif;
+  font-size: 22px;
+}
+
 #dropdown-menu-1r .hide-buttons [data-button] {
   display: none !important;
 }
@@ -251,59 +281,4 @@
 }
 #msg-box5-29 .mbr-article {
   color: #ffffff;
-}
-
-#dropdown-menu-1s .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-1s .navbar-brand a {
-  font-size: 15px;
-}
-#dropdown-menu-1s .nav .link,
-#dropdown-menu-1s .dropdown-item {
-  font-size: 1em;
-  color: #1d84b5;
-  font-family: 'Roboto', sans-serif;
-}
-#dropdown-menu-1s .navbar,
-#dropdown-menu-1s .dropdown-menu {
-  background: #4b2727;
-}
-#dropdown-menu-1s .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-1s .dropdown-menu a:hover,
-#dropdown-menu-1s .dropdown-menu a:focus {
-  background: #3e2020;
-}
-#dropdown-menu-1s .navbar-toggler {
-  color: #1d84b5;
-}
-
-
-#dropdown-menu-1t .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-1t .navbar-brand a {
-  font-size: 15px;
-}
-#dropdown-menu-1t .nav .link,
-#dropdown-menu-1t .dropdown-item {
-  font-size: 1em;
-  color: #1d84b5;
-  font-family: 'Roboto', sans-serif;
-}
-#dropdown-menu-1t .navbar,
-#dropdown-menu-1t .dropdown-menu {
-  background: #4b2727;
-}
-#dropdown-menu-1t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-1t .dropdown-menu a:hover,
-#dropdown-menu-1t .dropdown-menu a:focus {
-  background: #3e2020;
-}
-#dropdown-menu-1t .navbar-toggler {
-  color: #1d84b5;
-}
-#header4-1v P {
-  font-family: 'Droid Serif', serif;
-  font-size: 22px;
 }
