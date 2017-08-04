@@ -305,6 +305,69 @@
       "components": [
         {
           "_styles": {
+            ".mbr-header__text": {
+              "color": "#4d0bb7"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#4f15ad"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-23",
+          "_params": {
+            "imageSize": "44",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=pz0iiL31TVY",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "People Power, aflevering 3",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Wanneer je je als gebruiker aanmeldt bij een groot bedrijf, bijvoorbeeld Facebook, dan heb je geen controle meer over je gegevens. Facebook mag zelf bepalen wat zij met jouw gegevens doen, bijvoorbeeld doorverkorpen aan derde partijen. Met de \"social graph\" is het mogelijk om zelf je gegevens te beheren, te bepalen met wie je ze wilt delen en met welke apps je deze wilt gebruiken.&nbsp;</p><p>Daar gaat deze derde aflevering van People Power over.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
@@ -378,66 +441,6 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-13",
-          "_params": {
-            "imageSize": "43",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=0UXKQ94962I",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "headerAlign": "left",
-          "title": "People Power, aflevering 1",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "Een serie over het vrije en gedecentralizeerde internet.&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#4d0bb7"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#4d0bb7"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
           "_anchor": "msg-box5-14",
           "_params": {
             "imageSize": "44",
@@ -491,19 +494,16 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "color": "#4f15ad"
+              "color": "#4d0bb7"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-23",
+          "_anchor": "msg-box5-13",
           "_params": {
-            "imageSize": "44",
+            "imageSize": "43",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
@@ -522,7 +522,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -532,7 +532,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=pz0iiL31TVY",
+              "src": "https://www.youtube.com/watch?v=0UXKQ94962I",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -540,10 +540,10 @@
             }
           },
           "headerAlign": "left",
-          "title": "People Power, aflevering 3",
+          "title": "People Power, aflevering 1",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Wanneer je je als gebruiker aanmeldt bij een groot bedrijf, bijvoorbeeld Facebook, dan heb je geen controle meer over je gegevens. Facebook mag zelf bepalen wat zij met jouw gegevens doen, bijvoorbeeld doorverkorpen aan derde partijen. Met de \"social graph\" is het mogelijk om zelf je gegevens te beheren, te bepalen met wie je ze wilt delen en met welke apps je deze wilt gebruiken.&nbsp;</p><p>Daar gaat deze derde aflevering van People Power over.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+          "text": "Een serie over het vrije en gedecentralizeerde internet.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         }
       ]
     },
@@ -1038,7 +1038,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14002.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14003.png",
               "link": "",
               "alt": "",
               "title": "",
