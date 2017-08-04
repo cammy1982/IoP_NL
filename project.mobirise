@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Presentaties",
+    "currentPage": "Wallets en applicaties",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1038,7 +1038,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14000.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14001.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1256,7 +1256,7 @@
           "_params": {
             "imageSize": "22",
             "paddingTop": "0",
-            "paddingBottom": 3,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1297,7 +1297,7 @@
           "headerAlign": "left",
           "title": "Wallets",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Alle 'wallets' (elektronische portomonees') welke gedownload kunnen worden, zijn te vinden in onze account op Github. Klik op de afbeelding hiernaast om naar de betreffende pagina te gaan.&nbsp;",
+          "text": "<p>Alle 'wallets' (elektronische portomonees') welke gedownload kunnen worden, zijn te vinden in onze account op Github. Klik op de afbeelding hiernaast om naar de betreffende pagina te gaan.&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         }
       ]
