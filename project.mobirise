@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Wallets en applicaties",
+    "currentPage": "Presentaties",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -343,7 +343,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -1038,7 +1038,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14003.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14000.png",
               "link": "",
               "alt": "",
               "title": "",
