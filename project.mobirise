@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Home",
+    "currentPage": "Nieuws ",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1038,7 +1038,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140012.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140015.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1434,7 +1434,7 @@
             }
           },
           "headerAlign": "left",
-          "title": "IOP CONNECT&nbsp;",
+          "title": "<br><br><br><br><span style=\"font-family: inherit; font-size: 25px; letter-spacing: 6px; line-height: 1.5em;\">IOP CONNECT&nbsp;</span><br>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Onze nieuwe app is uit. IoP Connect. Heb je deze al geprobeerd? Zo niet, doe het dan nu. Hiermee kun je rechtstreeks contact maken met je vrienden, zonder tussenkomst van andere partijen (zoals bijvoorbeeld Facebook of Whatsapp). &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://play.google.com/store/apps/details?id=org.furszy.contacts&amp;hl=nl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD NU </a>"
