@@ -9,7 +9,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 89,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.1.2",
     "favicon": "file:///C:/Users/Gebruiker/Downloads/MOBIRISE",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -58,6 +58,11 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#4b2727",
             "fontSize": "1",
             "fontName": {
@@ -65,12 +70,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#1d84b5",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#1d84b5"
           },
           "logo": {
             "image": {
@@ -104,23 +104,23 @@
           },
           "_anchor": "header2-5",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nasa-2000x1330.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": false,
             "showText": false,
             "showButtons": false,
-            "showArrow": false
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nasa-2000x1330.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "",
           "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
@@ -145,26 +145,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-8",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "17",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#53a2be",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#53a2be",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -238,13 +238,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#230e03",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#230e03",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -284,13 +284,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgColor": "#000000",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#000000",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#683227"
+            "overlayColor": "#683227",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 Camelia."
         }
@@ -333,6 +333,11 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-1a",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#4b2727",
             "fontSize": "1",
             "fontName": {
@@ -340,12 +345,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#1d84b5",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#1d84b5"
           },
           "logo": {
             "image": {
@@ -370,27 +370,27 @@
           "_name": "content4",
           "_anchor": "content4-1e",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#f2cccc",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
-            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showCaptions": false,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2cccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
@@ -563,6 +563,11 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-1f",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#4b2727",
             "fontSize": "1",
             "fontName": {
@@ -570,12 +575,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#1d84b5",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#1d84b5"
           },
           "logo": {
             "image": {
@@ -619,26 +619,26 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-1n",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "20",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
-            "bgColor": "#3c3c3c",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
             "overlayColor": "#000000",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -704,6 +704,11 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-1o",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#4b2727",
             "fontSize": "1",
             "fontName": {
@@ -711,12 +716,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#1d84b5",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#1d84b5"
           },
           "logo": {
             "image": {
@@ -761,33 +761,33 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1q",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "13",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
-            "bgColor": "#f97352",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
             "overlayColor": "#7c706b",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.9"
           },
           "media": {
             "image": {
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14003.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14002.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -850,6 +850,11 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-1t",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#4b2727",
             "fontSize": "1",
             "fontName": {
@@ -857,12 +862,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#1d84b5",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#1d84b5"
           },
           "logo": {
             "image": {
@@ -895,23 +895,23 @@
           },
           "_anchor": "header4-1v",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#303737",
             "showTitle": false,
             "showText": true,
             "showButtons": false,
-            "showArrow": false
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#303737",
+            "overlayOpacity": "0.8"
           },
           "title": "MOBIRISE WEBSITE BUILDER",
           "text": "De documenten in dit overzicht zijn nog niet allemaal vertaald naar het Nederlands. Onze excuses hiervoor. Dit zal zo snel mogelijk gebeuren.&nbsp;",
@@ -956,6 +956,11 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-1r",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#4b2727",
             "fontSize": "1",
             "fontName": {
@@ -963,12 +968,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#1d84b5",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#1d84b5"
           },
           "logo": {
             "image": {
@@ -1003,26 +1003,26 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-29",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "22",
             "paddingTop": "0",
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1087,6 +1087,11 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-2d",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#4b2727",
             "fontSize": "1",
             "fontName": {
@@ -1094,12 +1099,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#1d84b5",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#1d84b5"
           },
           "logo": {
             "image": {
@@ -1138,26 +1138,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-2g",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": "55",
             "paddingTop": "0",
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#bcbce6",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#bcbce6",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1185,7 +1185,7 @@
           "headerAlign": "left",
           "title": "<br><br><br><br><span style=\"font-family: inherit; font-size: 25px; letter-spacing: 6px; line-height: 1.5em;\">IOP CONNECT&nbsp;</span><br>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Onze nieuwe app is uit. IoP Connect. Heb je deze al geprobeerd? Zo niet, doe het dan nu. Hiermee kun je rechtstreeks contact maken met je vrienden, zonder tussenkomst van andere partijen (zoals bijvoorbeeld Facebook of Whatsapp). &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+          "text": "<p>Onze nieuwe app is uit. IoP Connect. Heb je deze al geprobeerd? Zo niet, doe het dan nu. Hiermee kun je rechtstreeks contact maken met je vrienden, zonder tussenkomst van andere partijen (zoals bijvoorbeeld Facebook of Whatsapp). &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://play.google.com/store/apps/details?id=org.furszy.contacts&amp;hl=nl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD NU </a>"
         }
       ]
@@ -1218,26 +1218,26 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-23",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "44",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
-            "bgColor": "#3c3c3c",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1290,6 +1290,11 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#4b2727",
             "fontSize": "1",
             "fontName": {
@@ -1297,12 +1302,7 @@
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#1d84b5",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#1d84b5"
           },
           "logo": {
             "image": {
@@ -1337,26 +1337,26 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-14",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "44",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
-            "bgColor": "#3c3c3c",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1397,26 +1397,26 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-13",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "43",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
-            "bgColor": "#3c3c3c",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
