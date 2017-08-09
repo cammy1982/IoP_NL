@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Home",
+    "currentPage": "Nieuws ",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -787,7 +787,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14002.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14003.png",
               "link": "",
               "alt": "",
               "title": "",
