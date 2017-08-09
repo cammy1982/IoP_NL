@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Nieuws ",
+    "currentPage": "People Power ",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -85,7 +85,7 @@
             }
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">People Power</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"true\">Informatie</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_inherit": "header1",
@@ -296,257 +296,6 @@
         }
       ]
     },
-    "Presentaties": {
-      "settings": {
-        "title": "Presentaties",
-        "meta_descr": "",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#4d0bb7"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "color": "#4f15ad"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-23",
-          "_params": {
-            "imageSize": "44",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=pz0iiL31TVY",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "headerAlign": "left",
-          "title": "People Power, aflevering 3",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Wanneer je je als gebruiker aanmeldt bij een groot bedrijf, bijvoorbeeld Facebook, dan heb je geen controle meer over je gegevens. Facebook mag zelf bepalen wat zij met jouw gegevens doen, bijvoorbeeld doorverkorpen aan derden. Met de \"social graph\" is het mogelijk om zelf je gegevens te beheren, te bepalen met wie je ze wilt delen en met welke apps je deze wilt gebruiken.&nbsp;</p><p>Daar gaat deze derde aflevering van People Power over.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-size": "15px"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#1d84b5",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#4b2727"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#3e2020"
-            },
-            ".navbar-toggler": {
-              "color": "#1d84b5"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-0",
-          "_params": {
-            "bgColor": "#4b2727",
-            "fontSize": "1",
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
-            "fontColor": "#1d84b5",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Internet of People",
-              "link": "https://cammy1982.github.io/IoP_NL/Home",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#4d0bb7"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#4d0bb7"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-14",
-          "_params": {
-            "imageSize": "44",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=xKLbiv-KWr8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "headerAlign": "left",
-          "title": "People Power, aflevering 2&nbsp;",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "Twee voorbeelden van P2P gebruikersmogelijkheden: taxi's en dating.&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#4d0bb7"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#4d0bb7"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-13",
-          "_params": {
-            "imageSize": "43",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=0UXKQ94962I",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "headerAlign": "left",
-          "title": "People Power, aflevering 1",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "Een serie over het vrije en gedecentralizeerde internet.&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
-        }
-      ]
-    },
     "Blockchain": {
       "settings": {
         "title": "Blockchain",
@@ -611,7 +360,7 @@
             }
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">People Power</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"true\">Informatie</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_inherit": "features1",
@@ -841,7 +590,7 @@
             }
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">People Power</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"true\">Informatie</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_styles": {
@@ -982,7 +731,7 @@
             }
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">People Power</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"true\">Informatie</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -1038,7 +787,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140015.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14001.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1128,7 +877,7 @@
             }
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">People Power</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"true\">Informatie</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_inherit": "header1",
@@ -1234,7 +983,7 @@
             }
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">People Power</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"true\">Informatie</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_styles": {
@@ -1365,7 +1114,7 @@
             }
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">Presentaties</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">People Power</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"true\">Informatie</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -1438,6 +1187,257 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Onze nieuwe app is uit. IoP Connect. Heb je deze al geprobeerd? Zo niet, doe het dan nu. Hiermee kun je rechtstreeks contact maken met je vrienden, zonder tussenkomst van andere partijen (zoals bijvoorbeeld Facebook of Whatsapp). &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://play.google.com/store/apps/details?id=org.furszy.contacts&amp;hl=nl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD NU </a>"
+        }
+      ]
+    },
+    "People Power ": {
+      "settings": {
+        "title": "People Power ",
+        "meta_descr": "people power afleveringen",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#4d0bb7"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#4f15ad"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-23",
+          "_params": {
+            "imageSize": "44",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=pz0iiL31TVY",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "People Power, aflevering 3",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Wanneer je je als gebruiker aanmeldt bij een groot bedrijf, bijvoorbeeld Facebook, dan heb je geen controle meer over je gegevens. Facebook mag zelf bepalen wat zij met jouw gegevens doen, bijvoorbeeld doorverkorpen aan derden. Met de \"social graph\" is het mogelijk om zelf je gegevens te beheren, te bepalen met wie je ze wilt delen en met welke apps je deze wilt gebruiken.&nbsp;</p><p>Daar gaat deze derde aflevering van People Power over.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "15px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#1d84b5",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#4b2727"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#3e2020"
+            },
+            ".navbar-toggler": {
+              "color": "#1d84b5"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-0",
+          "_params": {
+            "bgColor": "#4b2727",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#1d84b5",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-grained-chapter-netherlands-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Internet of People",
+              "link": "https://cammy1982.github.io/IoP_NL/Home",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Begin hier\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Presentaties.html\">People Power</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Begin hier\" aria-expanded=\"true\">Informatie</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#4d0bb7"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#4d0bb7"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-14",
+          "_params": {
+            "imageSize": "44",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=xKLbiv-KWr8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "People Power, aflevering 2&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Twee voorbeelden van P2P gebruikersmogelijkheden: taxi's en dating.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#4d0bb7"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#4d0bb7"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-13",
+          "_params": {
+            "imageSize": "43",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/organic-tiles-2000x2000.png",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=0UXKQ94962I",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "People Power, aflevering 1",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Een serie over het vrije en gedecentralizeerde internet.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         }
       ]
     }
