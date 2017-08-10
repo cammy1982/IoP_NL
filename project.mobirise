@@ -5,7 +5,8 @@
     "theme": {
       "name": "default",
       "title": "Mobirise",
-      "styling": {}
+      "styling": {},
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 89,
@@ -43,10 +44,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#4b2727"
+              "background": "#cccccc"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#3e2020"
+              "background": "#c2c2c2"
             },
             ".navbar-toggler": {
               "color": "#1d84b5"
@@ -63,7 +64,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#4b2727",
+            "bgColor": "#cccccc",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -338,7 +339,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#4b2727",
+            "bgColor": "#cccccc",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -568,7 +569,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#4b2727",
+            "bgColor": "#cccccc",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -709,7 +710,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#4b2727",
+            "bgColor": "#cccccc",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -787,7 +788,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14001.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14003.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -855,7 +856,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#4b2727",
+            "bgColor": "#cccccc",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -961,7 +962,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#4b2727",
+            "bgColor": "#cccccc",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -1092,7 +1093,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#4b2727",
+            "bgColor": "#cccccc",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -1295,7 +1296,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#4b2727",
+            "bgColor": "#cccccc",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
