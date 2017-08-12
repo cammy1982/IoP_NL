@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IoP Gemeenschap",
-    "currentPage": "Home",
+    "currentPage": "Wallets en applicaties",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -297,10 +297,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#4b2727"
+              "background": "#cccccc"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#3e2020"
+              "background": "#c2c2c2"
             },
             ".navbar-toggler": {
               "color": "#1d84b5"
@@ -527,10 +527,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#4b2727"
+              "background": "#cccccc"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#3e2020"
+              "background": "#c2c2c2"
             },
             ".navbar-toggler": {
               "color": "#1d84b5"
@@ -668,10 +668,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#4b2727"
+              "background": "#cccccc"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#3e2020"
+              "background": "#c2c2c2"
             },
             ".navbar-toggler": {
               "color": "#1d84b5"
@@ -766,7 +766,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14001.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14002.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -814,10 +814,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#4b2727"
+              "background": "#cccccc"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#3e2020"
+              "background": "#c2c2c2"
             },
             ".navbar-toggler": {
               "color": "#1d84b5"
@@ -920,10 +920,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#4b2727"
+              "background": "#cccccc"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#3e2020"
+              "background": "#c2c2c2"
             },
             ".navbar-toggler": {
               "color": "#1d84b5"
@@ -1025,7 +1025,7 @@
           "headerAlign": "left",
           "title": "Wallets",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Alle 'wallets' (elektronische portomonees') welke gedownload kunnen worden, zijn te vinden in onze account op Github. Klik op de afbeelding hiernaast om naar de betreffende pagina te gaan.&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p>Alle 'wallets' (elektronische portomonees') welke gedownload kunnen worden, zijn te vinden in onze account op Github. Klik op de afbeelding om naar de betreffende pagina te gaan.&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         }
       ]
@@ -1254,10 +1254,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#4b2727"
+              "background": "#cccccc"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#3e2020"
+              "background": "#c2c2c2"
             },
             ".navbar-toggler": {
               "color": "#1d84b5"
