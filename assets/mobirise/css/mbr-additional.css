@@ -42,14 +42,11 @@
 #msg-box4-8 .mbr-article {
   color: #ffffff;
 }
-#contacts1-18 STRONG {
-  color: #2c82c9;
-}
-#contacts1-18 P {
-  color: #2c82c9;
+#social-buttons2-2h .mbr-header__text {
+  color: #2969b0;
 }
 #footer1-1x P {
-  color: #2c82c9;
+  color: #2969b0;
   font-size: 14px;
 }
 
@@ -242,12 +239,12 @@
 }
 #dropdown-menu-2d .navbar,
 #dropdown-menu-2d .dropdown-menu {
-  background: #4b2727;
+  background: #cccccc;
 }
 #dropdown-menu-2d .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2d .dropdown-menu a:hover,
 #dropdown-menu-2d .dropdown-menu a:focus {
-  background: #3e2020;
+  background: #c2c2c2;
 }
 #dropdown-menu-2d .navbar-toggler {
   color: #1d84b5;

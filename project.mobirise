@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 89,
+    "uniqCompNum": 90,
     "versionPublish": "3.12.1",
     "favicon": "file:///C:/Users/Gebruiker/Downloads/MOBIRISE",
     "noImageResize": "",
@@ -225,49 +225,27 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#2c82c9"
-            },
-            "P": {
-              "color": "#2c82c9"
-            }
-          },
-          "_anchor": "contacts1-18",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2h",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#230e03",
+            "bgColor": "#a4d9a0",
             "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
-          "logo": {
-            "image": {
-              "src": "images/footer-logo.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "letter",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": "60",
-              "color": "#2c82c9",
-              "active": true,
-              "newWindow": false
+          "text": "VOLG ONS",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/IoPCommunity_NL\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Fermat-Netherlands-139704496506430/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#2969b0"
             }
-          },
-          "text1": "",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: camelia@iopcommunity.nl<br><br><br>",
-          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+          }
         },
         {
           "_tags": [
@@ -276,7 +254,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#2c82c9",
+              "color": "#2969b0",
               "font-size": "14px"
             }
           },
@@ -287,7 +265,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#a7e2a2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -788,7 +766,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14002.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14001.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1073,10 +1051,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#4b2727"
+              "background": "#cccccc"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#3e2020"
+              "background": "#c2c2c2"
             },
             ".navbar-toggler": {
               "color": "#1d84b5"
