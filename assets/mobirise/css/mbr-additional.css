@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 
 
 #dropdown-menu-0 .hide-buttons [data-button] {
@@ -225,6 +225,17 @@
   color: #ffffff;
 }
 
+#content5-2j .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-2j .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-2j .mbr-article {
+  color: #fff;
+}
 #dropdown-menu-2d .hide-buttons [data-button] {
   display: none !important;
 }
