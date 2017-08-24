@@ -7,11 +7,12 @@
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#fafeff"
+        "#fafeff",
+        "#292c29"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 92,
+    "uniqCompNum": 93,
     "versionPublish": "4.1.7",
     "favicon": "file:///C:/Users/Gebruiker/Downloads/MOBIRISE",
     "noImageResize": "",
@@ -768,7 +769,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14005.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14006.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1039,53 +1040,6 @@
       },
       "components": [
         {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stocksnap-1bsg5rxttu-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#7c706b",
-            "overlayOpacity": "0.3"
-          },
-          "title": "Toekomstplannen van het Libertaria project",
-          "text": "Libertaria start een aantal grote projecten om zo haar doelen te bereiken.&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-2j"
-        },
-        {
           "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
@@ -1143,6 +1097,36 @@
           },
           "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://cammy1982.github.io/IoP_NL/Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IoP Community NL</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://cammy1982.github.io/IoP_NL/Nieuws%20.html\" aria-expanded=\"true\">Nieuws</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Informatie\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Informatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/People%20Power%20.html\">People Power</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Blockchain.html\">Blockchain explorer<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://cammy1982.github.io/IoP_NL/Documentatie.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Documentatie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Voorwoord.html\">Voorwoord</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/IoP%20Onafhankelijkheidsverklaring.html\">IoP Onafhankelijkheidsverklaring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Het%20minen%20van%20IoP.html\">Het minen van IoP</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Downloads</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://cammy1982.github.io/IoP_NL/Wallets%20en%20applicaties.html\">Wallets en applicaties&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"#top\">Downloads</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stocksnap-1bsg5rxttu-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#292c29",
+            "overlayOpacity": "0.8"
+          },
+          "title": "LIBERTARIA",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2k"
         },
         {
           "_inherit": "msg-box5",
