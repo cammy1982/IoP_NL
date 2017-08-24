@@ -769,7 +769,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14006.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14007.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1104,7 +1104,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": false,
+            "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/stocksnap-1bsg5rxttu-2000x1333.jpg",
@@ -1119,7 +1119,7 @@
             "overlayColor": "#292c29",
             "overlayOpacity": "0.8"
           },
-          "title": "LIBERTARIA",
+          "title": "FULL-SCREEN HEADER",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_tags": [
