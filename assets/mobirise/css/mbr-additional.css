@@ -319,3 +319,46 @@
 #msg-box5-13 .mbr-article {
   color: #4d0bb7;
 }
+
+
+#dropdown-menu-2q .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2q .navbar-brand a {
+  font-size: 15px;
+}
+#dropdown-menu-2q .nav .link,
+#dropdown-menu-2q .dropdown-item {
+  font-size: 1em;
+  color: #1d84b5;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-2q .navbar,
+#dropdown-menu-2q .dropdown-menu {
+  background: #cccccc;
+}
+#dropdown-menu-2q .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2q .dropdown-menu a:hover,
+#dropdown-menu-2q .dropdown-menu a:focus {
+  background: #c2c2c2;
+}
+#dropdown-menu-2q .navbar-toggler {
+  color: #1d84b5;
+}
+#msg-box4-2r .mbr-header__text {
+  color: #252525;
+}
+#msg-box4-2r .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2r .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-2r .mbr-article P {
+  font-size: 16px;
+  color: #252525;
+}
+#msg-box4-2r .mbr-header__text DIV {
+  font-size: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
