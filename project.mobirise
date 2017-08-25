@@ -8,7 +8,8 @@
       "styling": {},
       "additionalSetColors": [
         "#fafeff",
-        "#292c29"
+        "#292c29",
+        "#3f4215"
       ]
     },
     "versionFirst": "3.12.1",
@@ -769,7 +770,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14000.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14001.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1104,7 +1105,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/stocksnap-1bsg5rxttu-2000x1333.jpg",
@@ -1116,11 +1117,11 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#292c29",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#3f4215",
+            "overlayOpacity": "0.6"
           },
           "title": "LIBERTARIA INITIATIEF<br><br>",
-          "text": "Het Libertaria initiatief wilt een gedecentralizeerde samenleving opbouwen. Om dit doel te bereiken concentreren ze zich op verschillende delen van de samenleving welke een gedecentralizeerde oplossing kunnen en willen bieden. Ze denken altijd aan hetgeen goed is voor de mensen; met die gedachte bouwen ze applicaties welke het leven van mensen makkelijker,vrijer en zelfstandiger maken.&nbsp;",
+          "text": "Het Libertaria initiatief wilt een gedecentralizeerde samenleving opbouwen. Om dit doel te bereiken concentreren ze zich op verschillende delen van de samenleving welke een gedecentralizeerde oplossing kunnen en willen bieden. Ze denken altijd aan hetgeen goed is voor de mensen; met die gedachte bouwen ze applicaties welke het leven van mensen makkelijker,vrijer en zelfstandiger maken.&nbsp;<br>Voor meer informatie kun je kijken op libertaria.world<br><br><br><br><br><br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_tags": [
             "Theme"
