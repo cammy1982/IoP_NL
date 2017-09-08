@@ -770,7 +770,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x140020.png",
+              "src": "@PROJECT_PATH@/assets/images/iop-logo-main-1400x14002.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1560,7 +1560,7 @@
             "inverse": false,
             "imageSize": "18",
             "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/youth-active-jump-happy-1999x1333.jpg",
             "parallax": true,
@@ -1600,7 +1600,7 @@
           "headerAlign": "left",
           "title": "Het LIBERTARIA initiatief&nbsp;<div><br></div><div><i>Wat is Libertaria?&nbsp;</i></div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Kortgezegd, het Libertaria initiatief is opgericht om een ware 'peer-to-peer' economie te kunnen opbouwen. We bouwen een gedecentralizeerde versie van het bedrijfsleven en de politiek, een zogenaamde 4.0 Economie. Libertaria is de allereerste implementatie van een moderne gemeenschap</p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p>Kortgezegd, het Libertaria initiatief is opgericht om een ware 'peer-to-peer' economie te kunnen opbouwen. We bouwen een gedecentralizeerde versie van het bedrijfsleven en de politiek, een zogenaamde 4.0 Economie. Libertaria is de allereerste implementatie van een moderne gemeenschap.&nbsp;</p><p>De Internet of People gemeenschap (IoP) zal binnenkort toegevoegd worden aan het Libertaria project. Hoe dit verder vorm zal worden gegeven is op dit moment nog niet bekend. Tot die tijd zal de oude website van IoP nog online blijven. Zodra Libertaria als project volledig is opgestart en afgerond, zal er een nieuwe website over dit project verschijnen.</p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_anchor": "msg-box4-2r"
         }
